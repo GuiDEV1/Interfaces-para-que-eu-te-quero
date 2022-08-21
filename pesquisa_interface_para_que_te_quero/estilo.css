@@ -1,0 +1,90 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+/* fundo da minha página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: hsl(0, 0%, 90%);
+    font-size: 16px;
+}
+/* Fim */
+
+/* formatação da logo e personalizações */
+#logo {
+    background: #e60c0c;
+    width: 100%;
+    height: 140px;
+    margin: 0px;
+    color: #fff;
+}
+
+#logo img {
+    width: 10%;
+    height: 40px;
+    margin: 26px;
+    background: #e60c0c;
+    
+}
+
+h1 {
+  margin: 28px 4px 28px 0px;
+}
+
+.scd {
+    color: #e60c0c;
+}
+
+/* fim */
+
+/* corpo da págiona */
+
+.f-img {
+ margin: auto;
+ /* border: 1px solid red; */
+ width: 75%;
+ height: 700px;
+}
+
+.f-img img {
+  width: 60%;
+  display: block;
+  margin: 10px auto;
+}
+
+.f-img p {
+    margin: 7px 10px 10px 24px;
+    padding: 14px;
+    width: 50%;
+}
+/*   fim   /*
+
+/* rodape  */
+
+#rodape {
+    width: 100%;
+    height: 100px;
+    margin: 10px;
+    background: linear-gradient(to bottom, rgb(72, 62, 62), #000);
+}
+
+#rodape h4 {
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    padding-top: 25px;
+}
+
+#rodape img {
+    width: 60px;
+    height: 70px;
+    display: inline;
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
+
+.clear {
+ clear: both;
+}
+
+
